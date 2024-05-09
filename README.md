@@ -1,10 +1,10 @@
-# Bootcamp 01 Challenge: Code Refactor
+# Bootcamp Code Refactor
 
 ## Description
 
 This is a summary of what I did for the week 1 challenge. I was given an existing starter code that could use some cleanup and simplifying of both the HTML and CSS. This was to be accomplished without changing what it does. Part of the project is to upload it to Git Hub in a unique repository and publish it.
 
-[This is a link to my published webpage.](https://rhinosstuff.github.io/01-Code-Refactor/)
+[This is a link to my published webpage.](https://rhinosstuff.github.io/Code-Refactor/)
 
 ## What I implemented
 
